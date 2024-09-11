@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sobuj</h1>
-<h3 align="center">A passionate Flutter App developer.</h3>
+<h3 align="center">A passionate Odoo developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sobuj191&label=Profile%20views&color=0e75b6&style=flat" alt="sobuj191" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Payment gateway, Google map API**
 
-- 💬 Ask me about **Flutter App Development**
+- 💬 Ask me about **Odoo Development**
 
 - 📫 How to reach me **mdsobujcmt@gmail.com**
 
