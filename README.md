@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sobuj191&label=Profile%20views&color=0e75b6&style=flat" alt="sobuj191" /> </p>
 
-- 🔭 I’m currently working on **Ride-sharing App**
+- 🔭 I’m currently working on **1000Fix ERP Software [Odoo 18]**
 
-- 🌱 I’m currently learning **Payment gateway, Google map API**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Odoo Development**
 
